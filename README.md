@@ -53,7 +53,7 @@ With Interactive Grid - Extend Toolbar Plugin you can (declaratively):
 For Grid actions, all the availble list in added in Grid actions.
 
     Some examples:
-    ```javascript
+    ```Grid Actions
     show-download-dialog
     show-sort-dialog
     show-filter-dialog
