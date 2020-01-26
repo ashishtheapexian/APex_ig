@@ -1,19 +1,33 @@
 {
-  "name": "test",
-  "version": "1.0.0",
-  "description": "ashish",
-  "main": "test.js",
-  "scripts": {
-    "test": "test command"
+  "name" : "Enhanced Extended toolbar",
+  "version" : "1.0",
+  "description" : "To add buttons in IG featured with GRID and custom event call",
+  "keywords" : ["Grid", "custom_event"],
+  "homepage" : "https://github.com/ashishtheapexian/APex_ig.git",
+  "bugs" : {
+    "url" : "https://github.com/ashishtheapexian/APex_ig/issues",
+    "email" : "ashishk392@gmail.com"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ashishtheapexian/APex_ig.git"
+  "license" : "MIT",
+  "author" : {
+    "name" : "Ashish Sahay",
+    "email" : "ashishk392@gmail",
+    "url" : "https://ashishsahay.com"
   },
-  "author": "Ashish",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/ashishtheapexian/APex_ig/issues"
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/ashishtheapexian/APex_ig.git"
   },
-  "homepage": "https://github.com/ashishtheapexian/APex_ig#readme"
+ "oracle" : {
+    "versions" : ["11.2.0.1", "12.1.0.1"],
+    "apex" : {
+      "versions" : ["19.2.0"],
+      "plugin" : {
+        "internalName" : "HR.BILOG.EXTENDIGTOOLBAR652701909024174",
+        "type" : "dynamic action",
+        "demo" : "https://apex.oracle.com/pls/apex/f?p=93690",
+        "previewImage" : "https://github.com/ashishtheapexian/APex_ig/blob/master/image.gif"
+      }
+    }
+  }
 }
