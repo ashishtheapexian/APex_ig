@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "ashish",
+  "main": "test.js",
+  "scripts": {
+    "test": "test command"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashishtheapexian/APex_ig.git"
+  },
+  "author": "Ashish",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashishtheapexian/APex_ig/issues"
+  },
+  "homepage": "https://github.com/ashishtheapexian/APex_ig#readme"
+}
