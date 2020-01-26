@@ -11,11 +11,8 @@ With Interactive Grid - Extend Toolbar Plugin you can (declaratively):
 
 # Changelog
 
-- v1.0.0 - 20171101 - Initial Release
-- v1.0.1 - 20171129 - Added .map files to fix Safari problem
-- v1.0.2 - 20180312 - Fix for adding buttons to multiple IG regions on same page
-- v1.0.3 - 20200103 - Fixed hidden "Rows Per Page" selector, removed code for fix 1.0.2 (APEX 19.2 supported)
-- v1.0.4 - 20200126  - Grid and custom events added in configurations
+- v1.0.0 - 20200126 - Initial Release
+
 
 # Install
 - Import plugin file dynamic_action_plugin_hr_bilog_extendigtoolbar.sql from source directory
