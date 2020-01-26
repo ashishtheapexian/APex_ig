@@ -2,7 +2,7 @@
   "name" : "Enhanced Extended toolbar",
   "version" : "1.0",
   "description" : "To add buttons in IG featured with GRID and custom event call",
-  "keywords" : ["Grid", "custom_event"],
+  "keywords" : ["Grid", "custom_event","interactive Grid"],
   "homepage" : "https://github.com/ashishtheapexian/APex_ig.git",
   "bugs" : {
     "url" : "https://github.com/ashishtheapexian/APex_ig/issues",
